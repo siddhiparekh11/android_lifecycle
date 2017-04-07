@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityLifeCycleAssignment</string>
+    <string name="activityBtext">Activity B occupies the complete window real-estate. The Android OS forces Activity A to be paused. However, the background thread keep incrementing the counter...</string>
+</resources>
